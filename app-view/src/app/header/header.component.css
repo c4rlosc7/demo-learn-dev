@@ -1,3 +1,9 @@
 .header-s{
     background-color: #7291ef;
 }
+
+.title-header {
+    font-size: 32px;
+    font-weight: bold;
+    text-shadow: 2px 2px #f7f1f1;
+}
