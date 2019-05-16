@@ -7,6 +7,8 @@ import { MaterialModule } from './material.components';
 import { HeaderComponent } from './header/header.component';
 import { FooterComponent } from './footer/footer.component';
 
+import 'hammerjs';
+
 @NgModule({
   declarations: [
     AppComponent,
